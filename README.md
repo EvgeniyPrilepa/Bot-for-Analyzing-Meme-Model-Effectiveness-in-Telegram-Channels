@@ -1,0 +1,1 @@
+# Bot-for-Analyzing-Meme-Model-Effectiveness-in-Telegram-Channels
